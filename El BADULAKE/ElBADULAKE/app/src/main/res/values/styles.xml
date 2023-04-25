@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TemaDAS" parent="Theme.AppCompat">
+        <item name="colorPrimary">#a2f079</item>
+        <item name="colorPrimaryDark">#f4f4f4</item>
+        <item name="colorAccent">#eba154</item>
+    </style>
+</resources>

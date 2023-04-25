@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El BADULAKE</string>
+    <string name="Iniciar_Sesión">Iniciar Sesión</string>
+    <string name="Registrate">Registrarse</string>
+    <string name="Comprar">Comprar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="Registrarme">Registrarme</string>
+    <string name="unete">UNETE A NOSOTROS!!!</string>
+    <string name="backgroundColor">Color del fondo:</string>
+    <string name="ColorBotones">Color de los botones:</string>
+    <string name="Actualizar">Actualizar</string>
+</resources>
